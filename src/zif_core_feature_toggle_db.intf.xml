@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_CORE_FEATURE_TOGGLE_DB</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Core: Interface Feature Toggle DB</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>FIND_ALL</CMPNAME>
+     <SCONAME>ZCX_CORE_FEATURE_TOGGLE_DB</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Feature Toggle DB Exception</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FIND_BY_ID</CMPNAME>
+     <SCONAME>IV_FEATURE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Feature Toggle Id</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FIND_BY_ID</CMPNAME>
+     <SCONAME>RESULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Feature Toggle DB</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FIND_BY_ID</CMPNAME>
+     <SCONAME>ZCX_CORE_FEATURE_TOGGLE_DB</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Feature Toggle DB Exception</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
